@@ -35,7 +35,7 @@
 
 ## :page_facing_up: Descrição
 
-Color Picker é um projeto simples que utiliza bibliotecas básicas de ML, como o keras e o OpenCv
+Color Picker é um projeto simples que utiliza bibliotecas básicas de ML, como o Pandas e o OpenCv
 
 ## ✨ Tecnologias
 
